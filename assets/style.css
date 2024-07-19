@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#upload-data {
+    background-color: #e9ecef;
+}
+
+#x-axis, #y-axis, #chart-type {
+    margin-top: 10px;
+}
+
+#graph {
+    margin-top: 20px;
+}
